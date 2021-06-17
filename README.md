@@ -1,6 +1,8 @@
 # script_haxball
-Script for headless haxball(https://github.com/haxball/haxball-issues/wiki/Headless-Host).
+Use scirpt new.js for headless haxball (https://github.com/haxball/haxball-issues/wiki/Headless-Host) - to create room and play with your friends! 
 
-You can visit https://www.haxball.com/headless and in browser console paste code from repositorium and play with other players.
+You can create room on page https://www.haxball.com/headless and in browser console paste code from new.js and play with other players.
 
-I used VPS from google to host room. Example tutorial: https://www.youtube.com/watch?v=tHSTQrGXt7w&t
+The best solution is use vps from google to host room. You'll have 300USD for new account, its free ~1.5 months for haxball room.
+
+Example tutorial for use VPS: https://www.youtube.com/watch?v=tHSTQrGXt7w&t
